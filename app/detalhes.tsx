@@ -14,3 +14,5 @@ const Detalhes: React.FC<Contato> = (contato) => {
     )
 }
 
+export default (Detalhes);
+

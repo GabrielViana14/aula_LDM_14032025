@@ -7,7 +7,7 @@ const styles = StyleSheet.create({
   semFoto: { width: 50, height: 50, justifyContent: "center", alignItems: "center", backgroundColor: "#ddd", borderRadius: 25 },
   info: { marginLeft: 10 },
   nome: { fontWeight: "bold" },
-  botaoAdicionar: { backgroundColor: "blue", padding: 10, marginTop: 20, borderRadius: 5, alignItems: "center" },
+  botaoEditar: { backgroundColor: "blue", padding: 10, marginTop: 20, borderRadius: 5, alignItems: "center" },
   textoBotao: { color: "white", fontSize: 16 },
   text: { padding: 20, fontSize: 16, color: "black",},
 });
